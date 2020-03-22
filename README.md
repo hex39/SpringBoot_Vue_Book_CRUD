@@ -1,6 +1,6 @@
 # SpringBoot+Vue前后端分离开发
 
-## 请查看[前后端分离的SpringBoot+Vue实战]([https://github.com/hex39/SpringBoot_Vue_Book_CRUD/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md](https://github.com/hex39/SpringBoot_Vue_Book_CRUD/blob/master/学习笔记.md))
+## 请查看[前后端分离的SpringBoot+Vue实战](https://github.com/hex39/SpringBoot_Vue_Book_CRUD/blob/master/学习笔记.md)笔记
 
 因为他要求创建一个README.md，所以我先创建一个！
 
