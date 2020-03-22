@@ -26,11 +26,15 @@ $ git remote add origin git@github.com:hex39/SpringBoot_Vue_Book_CRUD.git
 //设置成SSH方式
 ```
 
+使用git在本地新建一个分支后，需要做远程分支关联，如果没有关联，git会在下面的操作中提示你显示的添加关联。关联目的是在执行git pull, git push操作时就不需要指定对应的远程分支，你只要没有显示指定，git pull的时候，就会提示你。
+
 ```c
 $ git branch --set-upstream
 ```
 
-```c
+$ git push -u origin master 上面命令将本地的master分支推送到origin主机，同时指定origin为默认主机，后面就可以不加任何参数使用git push了。
+
+```
 $ git push -u origin master
 ```
 
