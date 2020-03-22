@@ -40,4 +40,6 @@ $ git push -u origin master
 
 接下来就能无脑 git push 命令了！
 
-现在还需要测试一下git pull命令
+现在还需要测试一下git pull命令，因项目较小，拉取速度也快，
+
+测试通过。
