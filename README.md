@@ -39,3 +39,5 @@ $ git push -u origin master
 ```
 
 接下来就能无脑 git push 命令了！
+
+现在还需要测试一下git pull命令
