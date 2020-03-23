@@ -2,6 +2,10 @@
 
 ## 请查看[前后端分离的SpringBoot+Vue实战](https://github.com/hex39/SpringBoot_Vue_Book_CRUD/blob/master/学习笔记.md)笔记
 
+## 效果展示：
+
+![效果展示](README.assets/效果展示.gif)
+
 因为他要求创建一个README.md，所以我先创建一个！
 
 嫌弃了git本地仓库直接建立在桌面，浪费了C盘的空间，我在D盘又新建了文件夹，将git仓库初始化。发现clone下载速度巨慢，通过设置代理socks：1080的方式，让下载速度变快：
