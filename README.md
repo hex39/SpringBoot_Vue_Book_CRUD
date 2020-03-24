@@ -20,7 +20,7 @@
 
 使用这个网站查询  `avatars0.githubusercontent.com` 得到最新地址：
 
-<img src="../Vue_SpringBoot_shop/README.assets/image-20200324223743339.png" alt="image-20200324223743339" style="zoom: 50%;" />
+<img src="../SpringBoot_Vue_Book_CRUD/README.assets/image-20200324223743339.png" alt="image-20200324223743339" style="zoom: 50%;" />
 
 在本地hosts文件末尾添加查到的最新IP Address：
 
