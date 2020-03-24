@@ -8,7 +8,7 @@
 
 因为他要求创建一个README.md，所以我先创建一个！
 
-:cn:================================================================:cn:
+:joy:================================================================:joy:
 
 发现没用梯子登录github，md文件的图片都加载不出来了！
 
@@ -20,7 +20,7 @@
 
 使用这个网站查询  `avatars0.githubusercontent.com` 得到最新地址：
 
-<img src="../SpringBoot_Vue_Book_CRUD/README.assets/image-20200324223743339.png" alt="image-20200324223743339" style="zoom: 50%;" />
+<img src="README.assets/image-20200324231317363.png" alt="image-20200324231317363" style="zoom: 80%;" />
 
 在本地hosts文件末尾添加查到的最新IP Address：
 
